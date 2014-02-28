@@ -2,9 +2,12 @@ TDDBC for C# with NUnit on Xamarin Studio
 =============
 
 これは、TDDBCのXamarin Studioを利用するC#向けNUnitプロジェクトです。
+そのままVisual Studioでも使用可能です（ただし、NUnitのテストランナーは別途必要）。
 
 # 動作確認環境
 - Xamarin Studio 4.2.3
+- Visual Studio 2010 Ultimate
+- Visual Studio 2013 Ultimate
 
 # ライセンス
 
